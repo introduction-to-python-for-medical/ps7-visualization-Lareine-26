@@ -1,1 +1,22 @@
-
+Selected Features:
+Feature 1: age (Patient's age in years)
+Feature 2: maximum_heart_rate_achieved (Maximum heart rate achieved during exercise)
+1. Histogram Analysis:
+Two separate histograms were generated for the selected features:
+Age (age):
+The histogram shows a distribution primarily between 30 and 70 years, with a slight concentration of patients around the age of 50.
+Maximum Heart Rate Achieved (maximum_heart_rate_achieved):
+This feature shows a wide range of values, with a majority of values clustering between 120 and 180 bpm.
+2. Scatter Plot Analysis:
+The scatter plot visualizes the relationship between age and maximum_heart_rate_achieved.
+Observations:
+There is a clear negative trend in the data:
+Younger patients tend to achieve higher maximum heart rates during exercise.
+Older patients tend to achieve lower maximum heart rates.
+This trend aligns with physiological expectations, as maximum heart rate decreases with age.
+The data points are fairly well-distributed, indicating a consistent pattern.
+Correlation Trend:
+The scatter plot suggests a negative correlation between age and maximum_heart_rate_achieved.
+3. Conclusion:
+The analysis confirms that age and maximum heart rate achieved are strongly related in a negative linear trend.
+This relationship highlights an important insight: older patients are likely to achieve lower maximum heart rates.
